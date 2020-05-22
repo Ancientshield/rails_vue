@@ -1,0 +1,31 @@
+{
+  "name": "rails_vue",
+  "private": true,
+  "dependencies": {
+    "@rails/actioncable": "^6.0.0",
+    "@rails/activestorage": "^6.0.0",
+    "@rails/ujs": "^6.0.0",
+    "@rails/webpacker": "4.2.2",
+    "activestorage": "^5.2.4-3",
+    "axios": "^0.19.2",
+    "bootstrap": "^4.5.0",
+    "css-loader": "^3.5.3",
+    "jquery": "^3.5.1",
+    "pnp-webpack-plugin": "^1.6.4",
+    "popper.js": "^1.16.1",
+    "rails-erb-loader": "^5.5.2",
+    "rails-ujs": "^5.2.4-3",
+    "turbolinks": "^5.2.0",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-loader": "^15.9.2",
+    "vue-template-compiler": "^2.6.11",
+    "vue-turbolinks": "^2.1.0",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "webpack-dev-server": "^3.11.0"
+  }
+}
